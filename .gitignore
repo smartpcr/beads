@@ -26,7 +26,8 @@ pkg/
 
 # Agent local state (skills, settings, etc.)
 .amp/
-.claude/
+.claude/*
+!.claude/docs/
 
 
 # OS
